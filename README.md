@@ -1,0 +1,1 @@
+# Xiaomi-AI-App-KR-Translation
