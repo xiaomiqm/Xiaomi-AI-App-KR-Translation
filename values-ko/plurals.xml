@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <plurals name="common_input_too_long">
-        <item quantity="other">输入不能超过%d个字符</item>
+        <item quantity="other">최대 %d자까지 입력할 수 있습니다.</item>
     </plurals>
     <plurals name="common_select_n">
-        <item quantity="other">已选择%d项</item>
+        <item quantity="other">%d 선택됨</item>
     </plurals>
     <plurals name="music_total_song">
-        <item quantity="other">%1$d首</item>
+        <item quantity="other">%1$d 우선</item>
     </plurals>
 </resources>
