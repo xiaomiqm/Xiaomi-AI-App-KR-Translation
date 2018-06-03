@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="alarm_repeat_option">
+        <item>@string/time_setting_repeat_once</item>
+        <item>@string/time_setting_repeat_everyday</item>
+        <item>@string/time_setting_repeat_workday</item>
+        <item>@string/time_setting_repeat_1_to_5</item>
+    </string-array>
+    <string-array name="alarm_repeat_option_v2">
+        <item>@string/time_setting_repeat_once</item>
+        <item>@string/time_setting_repeat_everyday</item>
+        <item>@string/time_setting_repeat_workday</item>
+        <item>@string/time_setting_repeat_1_to_5</item>
+        <item>@string/time_setting_repeat_holiday</item>
+        <item>@string/time_setting_repeat_weekend</item>
+        <item>@string/time_setting_repeat_custom</item>
+    </string-array>
+    <string-array name="bluetooth_connect_option">
+        <item>@string/bluetooth_option_disconnect</item>
+        <item>@string/bluetooth_option_unpair</item>
+    </string-array>
+    <string-array name="bluetooth_disconnect_option">
+        <item>@string/bluetooth_option_connect</item>
+        <item>@string/bluetooth_option_unpair</item>
+    </string-array>
+    <string-array name="chatlog_feedback_status">
+        <item>@string/chatlog_feedback_status_open</item>
+        <item>@string/chatlog_feedback_status_processing</item>
+        <item>@string/chatlog_feedback_status_accepted</item>
+        <item>@string/chatlog_feedback_status_resolved</item>
+    </string-array>
+    <string-array name="debug_feedback_categories">
+        <item>@string/debug_feedback_category1</item>
+        <item>@string/debug_feedback_category2</item>
+        <item>@string/debug_feedback_category3</item>
+        <item>@string/debug_feedback_category4</item>
+        <item>@string/debug_feedback_category5</item>
+    </string-array>
+    <string-array name="gender">
+        <item>@string/common_male</item>
+        <item>@string/common_female</item>
+    </string-array>
+    <string-array name="news">
+        <item>@string/news_1</item>
+        <item>@string/news_2</item>
+        <item>@string/news_3</item>
+        <item>@string/news_4</item>
+        <item>@string/news_5</item>
+        <item>@string/news_6</item>
+        <item>@string/news_7</item>
+    </string-array>
+    <string-array name="passport_alphabet_table">
+        <item>\#</item>
+        <item>A</item>
+        <item>B</item>
+        <item>C</item>
+        <item>D</item>
+        <item>E</item>
+        <item>F</item>
+        <item>G</item>
+        <item>H</item>
+        <item>I</item>
+        <item>J</item>
+        <item>K</item>
+        <item>L</item>
+        <item>M</item>
+        <item>N</item>
+        <item>O</item>
+        <item>P</item>
+        <item>Q</item>
+        <item>R</item>
+        <item>S</item>
+        <item>T</item>
+        <item>U</item>
+        <item>V</item>
+        <item>W</item>
+        <item>X</item>
+        <item>Y</item>
+        <item>Z</item>
+    </string-array>
+    <string-array name="server_env">
+        <item>@string/setting_env_production</item>
+        <item>@string/setting_env_preview</item>
+    </string-array>
+    <string-array name="skill_rating_score">
+        <item>@string/skill_rating_score_1</item>
+        <item>@string/skill_rating_score_1</item>
+        <item>@string/skill_rating_score_2</item>
+        <item>@string/skill_rating_score_3</item>
+        <item>@string/skill_rating_score_4</item>
+        <item>@string/skill_rating_score_5</item>
+    </string-array>
+    <string-array name="traffic_mico_address">
+        <item>@string/setting_traffic_home</item>
+        <item>@string/setting_traffic_office</item>
+    </string-array>
+    <string-array name="traffic_style">
+        <item>@string/traffic_style_car</item>
+        <item>@string/traffic_style_foot</item>
+        <item>@string/traffic_style_bus</item>
+        <item>@string/traffic_style_bike</item>
+    </string-array>
+    <string-array name="weekdays">
+        <item>@string/monday</item>
+        <item>@string/tuesday</item>
+        <item>@string/wednesday</item>
+        <item>@string/thursday</item>
+        <item>@string/friday</item>
+        <item>@string/saturday</item>
+        <item>@string/sunday</item>
+    </string-array>
+    <string-array name="xingzuo">
+        <item>@string/xingzuo_baiyang</item>
+        <item>@string/xingzuo_jinniu</item>
+        <item>@string/xingzuo_shuangzi</item>
+        <item>@string/xingzuo_juxie</item>
+        <item>@string/xingzuo_shizi</item>
+        <item>@string/xingzuo_chunv</item>
+        <item>@string/xingzuo_tiancheng</item>
+        <item>@string/xingzuo_tianxie</item>
+        <item>@string/xingzuo_sheshou</item>
+        <item>@string/xingzuo_moxie</item>
+        <item>@string/xingzuo_shuiping</item>
+        <item>@string/xingzuo_shuangyu</item>
+    </string-array>
+</resources>
