@@ -323,13 +323,13 @@
     <string name="login_loading">로그인 중</string>
     <string name="login_mi_oauth">로그인 권한</string>
     <string name="login_privacy_protocol">개인 정보 보호 프로트콜</string>
-    <string name="login_protocol_prefix">로그인 완료</string>
+    <string name="login_protocol_prefix">로그인하면 다음 약관에 동의합니다 : </string>
     <string name="login_success">로그인 완료</string>
     <string name="login_system_account_found">Mi 계정 확인 완료</string>
     <string name="login_use_local">다른 계정 사용</string>
-    <string name="login_use_system">다이렉트 로그</string>
+    <string name="login_use_system">(클릭하지 마세요! 아래 버튼 클릭해서 로그인하세요!)</string>
     <string name="login_user_protocol">사용자 프로트콜</string>
-    <string name="login_welcome">니하오, 반갑습니다!</string>
+    <string name="login_welcome">샤오아이통쉐, 반갑습니다!</string>
     <string name="main_add_mico">새 스피커 추가</string>
     <string name="main_auto_switch_after_bind">연동 완료, %s로 전환됨</string>
     <string name="main_auto_switch_after_unbind">연동 해제 완료. %s로 전환됨</string>
