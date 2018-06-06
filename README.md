@@ -6,7 +6,7 @@
 <br />
 
 ## 참여자
--프로젝트 설립자 Leader : 샤오미물음표 (xiaomiqm)<br /><br />
+-프로젝트 설립자 Leader : 샤오미물음표 (xiaomiqm)<br />
 -한글번역가 Translater : 샤오미물음표 (xiaomiqm)
 
 <br />
