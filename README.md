@@ -3,13 +3,13 @@
 이 Repository는 샤오미에서 새롭게 출시한 샤오미 AI 스피커의 제어 앱의 한글번역 소스를 공유하고 있습니다.
 <br /><br />This repository is created to provide a quality Korean translation on Xiaomi AI Speaker.
 
-
+<br /><br /><br /><br />
 
 ## 참여자
 -프로젝트 설립자 Leader : 샤오미물음표 (xiaomiqm)<br /><br />
 -한글번역가 Translater : 샤오미물음표 (xiaomiqm)
 
-
+<br /><br /><br /><br />
 
 ## 문의 및 번역제보
 
