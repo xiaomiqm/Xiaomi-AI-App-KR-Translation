@@ -337,7 +337,7 @@
     <string name="main_handle_lack_of_permission_and_switch">%1$s의 권한 없음，%2$s로 전환됨</string>
     <string name="main_tab_device">스마트 홈</string>
     <string name="main_tab_music">음악 라디오 채널</string>
-    <string name="main_tab_setting">헙브</string>
+    <string name="main_tab_setting">설정</string>
     <string name="main_tab_store">스토어</string>
     <string name="main_tab_tool">도구</string>
     <string name="mijia_did_missing">스피커 기기 ID가 없습니다. ROM을 업데이트 하십시오.</string>
@@ -731,11 +731,11 @@ QQ 음악 서비스에 로그인하십시오."</string>
     <string name="setting_language">언어</string>
     <string name="setting_load_bluetooth_fail">블루투스 정보 확인 실패</string>
     <string name="setting_logout">로그아웃</string>
-    <string name="setting_logout_tip">확인을 눌러 종료 \"%1$s (%2$s)\"吗?</string>
+    <string name="setting_logout_tip">\"%1$s (%2$s)\" 계정에서 로그아웃 하시겠습니까?</string>
     <string name="setting_mannual">사용 설명서</string>
     <string name="setting_manual">사용 설명서</string>
     <string name="setting_mi_account">Mi 계정</string>
-    <string name="setting_mi_avatar">아바터</string>
+    <string name="setting_mi_avatar">프로필 사진</string>
     <string name="setting_mi_id">Mi 계정： %1$s</string>
     <string name="setting_mi_name">별명</string>
     <string name="setting_mina_env">앱 환경 전환</string>
@@ -756,7 +756,7 @@ QQ 음악 서비스에 로그인하십시오."</string>
     <string name="setting_switch_brain_env">스피커 환경 전환</string>
     <string name="setting_switch_env_failed">%1$s 전환 실패</string>
     <string name="setting_switch_env_success">%1$s 전환 완료</string>
-    <string name="setting_traffic">교통 상황</string>
+    <string name="setting_traffic">교통 정보</string>
     <string name="setting_traffic_add_plate_number">차량 정보 추가</string>
     <string name="setting_traffic_error_address_empty">집 및 회사 주소를 입력하십시오.</string>
     <string name="setting_traffic_hint1">위치 정보는 날씨, 여행 및 기타 정보에 사용됩니다.</string>
@@ -772,7 +772,7 @@ QQ 음악 서비스에 로그인하십시오."</string>
     <string name="setting_unbind">연동 해제</string>
     <string name="setting_unbind_failed">연결 실패</string>
     <string name="setting_unbind_success">연결 성공</string>
-    <string name="setting_unbind_tip">\"%1$s\" 계정에 연결되어 있습니까?</string>
+    <string name="setting_unbind_tip">\"%1$s\" 기기의 연동을 해제하시겠습니까?</string>
     <string name="setting_update">업데이트</string>
     <string name="setting_wifi">Wi-Fi 설정</string>
     <string name="setting_wifi_add_device">새 기기 추가</string>
@@ -972,7 +972,7 @@ QQ 음악 서비스에 로그인하십시오."</string>
     <string name="update_channel_beta">오픈 베타</string>
     <string name="update_channel_internal">클로즈 베타</string>
     <string name="update_channel_preview">미리보기</string>
-    <string name="update_channel_release">안정적</string>
+    <string name="update_channel_release">안정</string>
     <string name="update_channel_stable">개발자 버전</string>
     <string name="update_channel_staging">개발 버전</string>
     <string name="update_check_update">업데이트 확인</string>
